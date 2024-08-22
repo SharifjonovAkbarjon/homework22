@@ -1,5 +1,5 @@
 import React from 'react'
-import "../StayHome/Stayhome.scss"
+import "./Stayhome.scss"
 import boy from '../../assets/boy.png'
 import { BsSend } from "react-icons/bs";
 
